@@ -1,0 +1,1 @@
+<img src="{{ asset(path: 'images/logo.jpg') }}" alt="logo" class="h-6 w-auto" />

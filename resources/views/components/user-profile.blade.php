@@ -1,0 +1,1 @@
+<img src="{{ asset(path: 'images/profile.jpg') }}" alt="user" class="h-6 w-6 rounded-full object-cover" />
